@@ -1,0 +1,5 @@
+{
+  "name": "SecOps StegoTool",
+  "description": "Professional grade client-side steganography suite for security analysis and DLP testing.",
+  "requestFramePermissions": []
+}
