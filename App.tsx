@@ -26,7 +26,7 @@ const App: React.FC = () => {
               <h1 className="text-xl font-bold font-mono tracking-tight text-white">
                 SecOps<span className="text-emerald-500">Stego</span>Tool
               </h1>
-              <p className="text-xs text-slate-500 font-mono">v2.1-RC.1</p>
+              <p className="text-xs text-slate-500 font-mono">v1.1</p>
             </div>
           </div>
           
